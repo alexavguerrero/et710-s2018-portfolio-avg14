@@ -36,7 +36,7 @@
 
 .rounded-social-buttons .social-button.facebook:before {
   font-family: "FontAwesome";
-  content: "";
+  content: "";
 }
 
 .rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
