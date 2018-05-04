@@ -9,14 +9,14 @@
 }
 
 .featured-image-block .featured-image-block-title {
-  font-weight: 600;
-  margin-top: 10px;
+  font-weight: 700;
+  margin-top: 45px;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 1em;
-  color: #404040;
+  color: #0B0B3B;
 }
 
 .featured-image-block a:hover p {
-  color: #1779ba;
+  color: #FF00BF;
 }
