@@ -1,12 +1,12 @@
 
 .marketing-site-footer {
-  background: #17202A;
-  color: #c60101;
+  background: #0B0B3B;
+  color: #FFFFFF;
   padding: 2rem 0 0;
 }
 
 .marketing-site-footer .marketing-site-footer-menu-social a {
-  color: #fefefe;
+  color: #FA58F4;
 }
 
 .marketing-site-footer .column-block {
@@ -24,13 +24,13 @@
 }
 
 .marketing-site-footer-name {
-  color: #fefefe;
+  color: #FFFFFF;
   margin-bottom: 1rem;
   font-size: 2rem;
 }
 
 .marketing-site-footer-title {
-  color: #fefefe;
+  color: #FFFFFF;
   margin-bottom: 1rem;
   font-size: 1.25rem;
 }
@@ -44,7 +44,7 @@
 
 .marketing-site-footer-block .fa {
   font-size: 2rem;
-  color: #0b01c6;
+  color: #FA58F4;
 }
 
 .marketing-site-footer-block p {
@@ -53,7 +53,7 @@
 }
 
 .marketing-site-footer-bottom {
-  background: #020202;
+  background: #0B0B3B;
   padding: 1rem 0;
 }
 
