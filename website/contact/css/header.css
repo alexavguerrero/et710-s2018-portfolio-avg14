@@ -1,19 +1,19 @@
 
 .contact-us-section {
   padding: 2rem;
-  background: #fefefe;
+  background: #F2F2F2;
 }
 
 .contact-us-section .contact-us-section-left {
   padding-right: 2rem;
-  border-bottom: 2px solid #e6e6e6;
+  border-bottom: 2px solid #0B0B3F;
   padding-bottom: 2rem;
   margin-bottom: 2rem;
 }
 
 @media print, screen and (min-width: 40em) {
   .contact-us-section .contact-us-section-left {
-    border-right: 1px solid #e6e6e6;
+    border-right: 1px solid #FF00BF;
     border-bottom: 0;
     padding-bottom: 0;
     margin-bottom: 0;
@@ -26,7 +26,7 @@
 
 @media print, screen and (min-width: 40em) {
   .contact-us-section .contact-us-section-right {
-    border-left: 1px solid #e6e6e6;
+    border-left: 1px solid #FF00BF;
   }
 }
 
@@ -71,7 +71,7 @@
 
 .contact-us-form-actions .contact-us-file-button {
   background: transparent;
-  color: #8a8a8a;
+  color: #0B0B3B;
 }
 
 .contact-us-list {
@@ -80,14 +80,14 @@
 }
 
 .contact-us-list li a {
-  color: #0a0a0a;
+  color: #0B0B3B;
 }
 
 .contact-us-list li::before {
   margin-right: 2rem;
   font-size: 2rem;
   vertical-align: middle;
-  color: #8a8a8a;
+  color: #FF00BF;
   font-family: 'FontAwesome';
 }
 
