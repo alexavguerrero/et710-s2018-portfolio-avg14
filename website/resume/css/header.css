@@ -1,23 +1,23 @@
 
 .portfolio-resume-spacing {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .portfolio-resume-wrapper {
-  padding: 3rem 5rem;
+  padding: 3rem 3rem;
 }
 
 .portfolio-resume-headshot {
-  margin-bottom: 2rem;
-  border-radius: 50%;
+  margin-bottom: 3rem;
+  border-radius: 80%;
 }
 
 .portfolio-resume-header {
   text-transform: uppercase;
-  padding-bottom: 1rem;
+  padding-bottom: 1.0rem;
   border-bottom: 1px solid #0B0B3F;
   font-weight: bold;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .portfolio-resume-contact-info {
