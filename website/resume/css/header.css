@@ -4,7 +4,7 @@
 }
 
 .portfolio-resume-wrapper {
-  padding: 2rem 4rem;
+  padding: 3rem 5rem;
 }
 
 .portfolio-resume-headshot {
@@ -15,9 +15,9 @@
 .portfolio-resume-header {
   text-transform: uppercase;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #e6e6e6;
+  border-bottom: 1px solid #0B0B3F;
   font-weight: bold;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .portfolio-resume-contact-info {
